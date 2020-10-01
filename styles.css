@@ -1,0 +1,20 @@
+body{
+  background-color: #eaf6f6;
+}
+h1{
+  font-size: 5rem;
+  margin-left: 610px;
+  margin-right: 610px;
+  background-color: white;
+  border-radius: 12px;
+}
+.top
+{
+  margin-left: 690px;
+  margin-right: 200px;
+}
+.dice{
+  margin-left: 480px;
+  margin-right: 200px;
+  padding-top: 100px;
+}
